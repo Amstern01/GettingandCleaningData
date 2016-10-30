@@ -24,4 +24,4 @@ mergeData2 contains all of the mean and standard deviation measurements for each
 
 2.mergeMeans
 
-mergeMeans contains the calculated mean for each measurement by subject and by activity. 
+mergeMeans contains the calculated mean for each measurement contained in mergeData2 by subject and by activity. 
