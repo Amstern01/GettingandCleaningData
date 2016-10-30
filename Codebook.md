@@ -1,7 +1,7 @@
 This codebook describes the variables in the mergeData2 and meanMerge data frames produced by the Run_Analysis.R script 
 contained in this repository.
 
-*mergeData2*
+**mergeData2**
 
 Feature Selection 
 =================
@@ -60,7 +60,6 @@ Activity Label: denotes the activity associated with the given measurement. Poss
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
-*meanMerge*
+**meanMerge**
 
-This data frame includes the average of the mean and standard deviation for each of the variables listed above calculated by subject 
-and by activity. 
+This data frame is created by the Run_Analysis.R script from the meanMerge2 data frame and  includes the average of the mean and standard deviation for each of the variables listed above calculated by subject and by activity. 
