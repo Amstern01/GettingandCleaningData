@@ -18,10 +18,10 @@ The script Run_Analysis.R downloads the Human Activity Recognition data collecte
 
 The script produces two resulting data frames:
 
-1. mergeData2
+1.mergeData2
 
 mergeData2 contains all of the mean and standard deviation measurements for each measurement in the training and test data sets. Variables have been added to designate the subject and activity for each measurement. 
 
-2. mergeMeans
+2.mergeMeans
 
 mergeMeans contains the calculated mean for each measurement by subject and by activity. 
